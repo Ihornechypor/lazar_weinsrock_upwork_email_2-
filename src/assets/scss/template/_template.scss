@@ -25,24 +25,6 @@
   text-align: left;
 }
 
-.pdH40 {
-  padding-left: 40px;
-  padding-right: 40px;
-}
-
-.pdH48 {
-  padding-left: 48px;
-  padding-right: 48px;
-}
-
-.pdL48 {
-  padding-left: 48px;
-}
-
-.pdR48 {
-  padding-right: 48px;
-}
-
 .tPrimary {
   color: $primary-color;
 }
@@ -69,12 +51,4 @@ p {
 h1,
 h2 {
   margin: 0;
-}
-
-.section_bg {
-  background-color: #000;
-  background-image: url(assets/img/jmb.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
