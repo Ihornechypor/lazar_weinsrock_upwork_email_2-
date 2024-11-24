@@ -1,0 +1,80 @@
+.tNrm {
+  color: $global-font-color;
+  font-weight: $global-font-weight;
+  text-align: left;
+  line-height: $global-line-height;
+}
+
+.t {
+  font-family: $body-font-family;
+}
+
+.tSc {
+  font-family: $secondary-font-family;
+}
+
+.tCenter {
+  text-align: center;
+}
+
+.tRight {
+  text-align: right;
+}
+
+.tLeft {
+  text-align: left;
+}
+
+.pdH40 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.pdH48 {
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.pdL48 {
+  padding-left: 48px;
+}
+
+.pdR48 {
+  padding-right: 48px;
+}
+
+.tPrimary {
+  color: $primary-color;
+}
+
+.tMedium {
+  font-weight: 500;
+}
+
+.tUnderline {
+  text-decoration: underline;
+}
+
+.bg_light_grey {
+  background-color: $light-gray;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+.section_bg {
+  background-color: #000;
+  background-image: url(assets/img/jmb.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

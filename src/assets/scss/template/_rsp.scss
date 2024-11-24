@@ -1,0 +1,115 @@
+@media only screen and (max-width: $global-breakpoint) {
+  .section_bg {
+    background-image: url(assets/img/jmb_mob.jpg) !important;
+  }
+
+  .smPdL0 {
+    padding-left: 0px !important;
+  }
+
+  .smPdT20 {
+    padding-top: 20px !important;
+  }
+
+  .smPdt40 {
+    padding-top: 40px !important;
+  }
+
+  .smPdB38 {
+    padding-bottom: 38px !important;
+  }
+  .smPdB0 {
+    padding-bottom: 0px !important;
+  }
+  .smPdB40 {
+    padding-bottom: 40px !important;
+  }
+  .smPdB30 {
+    padding-bottom: 30px !important;
+  }
+  .smPdB200 {
+    padding-bottom: 200px !important;
+  }
+
+  .smPdR0 {
+    padding-right: 0px !important;
+  }
+
+  .tColMob {
+    display: inline-block !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+  }
+  .tRowMob {
+    display: inline-block !important;
+  }
+
+  .smPdR30 {
+    padding-right: 30px !important;
+  }
+
+  .btn_v1 {
+    background-image: url(assets/img/bg_btn_1_mob.png) !important;
+    width: 299px !important;
+  }
+  .btn_v2 {
+    background-image: url(assets/img/bg_btn_2_mob.png) !important;
+    width: 299px !important;
+  }
+
+  .sm_hide {
+    display: none !important;
+  }
+
+  .sm_show {
+    display: block !important;
+  }
+
+  .smPdT14 {
+    padding-top: 14px !important;
+  }
+
+  .smW300 {
+    width: 100% !important;
+    max-width: 300px !important;
+  }
+
+  .smPdB {
+    padding-bottom: 20px !important;
+  }
+
+  table th.columns {
+    &.smNoGt {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+  }
+
+  .smElRsp {
+    width: 100% !important;
+  }
+
+  .smDinB {
+    box-sizing: border-box;
+    display: inline-block !important;
+  }
+
+  .smW100 {
+    width: 100px !important;
+  }
+
+  .smPdT15 {
+    padding-top: 15px !important;
+  }
+
+  .smProdBg {
+    background-image: url(assets/img/app_main.png) !important;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 195px;
+  }
+
+  .smPdB {
+    padding-bottom: 20px !important;
+  }
+}

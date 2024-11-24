@@ -1,0 +1,11 @@
+.header__table {
+  background-color: #fcf2fb;
+  background-image: url(assets/img/header_bg.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  @media only screen and (max-width: $global-breakpoint) {
+    background-image: url(assets/img/bg_bmob_top.jpg) !important;
+  }
+}
